@@ -1,2 +1,2 @@
 # Delivery-Bot
-Delivery bot using PyQt for GUI with Python and ROS
+Delivery bot on turtlebot hardware using PyQt for developing the GUI and face detection of receiver using Python. Implemented using ROS.
